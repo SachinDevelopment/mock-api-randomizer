@@ -26,7 +26,8 @@
         "aram_rating": 1500,
         "prev_rating": 1335,
         "prev_aram_rating": 1239
-    },
+    }
+    ,
     {
         "id": 3,
         "name": "Parth",
@@ -110,61 +111,5 @@
         "aram_rating": 1500,
         "prev_rating": 1407,
         "prev_aram_rating": 1484
-    },
-    {
-        "id": 19,
-        "name": "Dallas",
-        "wins": 2,
-        "loses": 5,
-        "winrate": 29,
-        "aram_wins": 0,
-        "aram_loses": 0,
-        "aram_winrate": 0,
-        "rating": 1426,
-        "aram_rating": 1500,
-        "prev_rating": 0,
-        "prev_aram_rating": 0
-    },
-    {
-        "id": 20,
-        "name": "George",
-        "wins": 11,
-        "loses": 3,
-        "winrate": 79,
-        "aram_wins": 0,
-        "aram_loses": 0,
-        "aram_winrate": 0,
-        "rating": 1704,
-        "aram_rating": 1500,
-        "prev_rating": 0,
-        "prev_aram_rating": 0
-    },
-    {
-        "id": 21,
-        "name": "Cole",
-        "wins": 5,
-        "loses": 4,
-        "winrate": 56,
-        "aram_wins": 0,
-        "aram_loses": 0,
-        "aram_winrate": 0,
-        "rating": 1532,
-        "aram_rating": 1500,
-        "prev_rating": null,
-        "prev_aram_rating": null
-    },
-    {
-        "id": 22,
-        "name": "Chance",
-        "wins": 2,
-        "loses": 1,
-        "winrate": 67,
-        "aram_wins": 0,
-        "aram_loses": 0,
-        "aram_winrate": 0,
-        "rating": 1517,
-        "aram_rating": 1500,
-        "prev_rating": null,
-        "prev_aram_rating": null
     }
 ]
