@@ -5,9 +5,9 @@
   "main": "app.js",
   "dependencies": {
     "connect-api-mocker": "^1.9.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
