@@ -1,2 +1,2 @@
 # mock-api-randomizer
-should server our purposes
+should serve our purposes
