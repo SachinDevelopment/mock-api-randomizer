@@ -1,0 +1,164 @@
+{
+    "id": 1,
+    "name": "Sachin",
+    "wins": 23,
+    "loses": 12,
+    "winrate": 66,
+    "aram_wins": 0,
+    "aram_loses": 1,
+    "aram_winrate": 0,
+    "rating": 1717,
+    "aram_rating": 1475,
+    "sr": {
+        "lane": 24,
+        "laneWR": "71",
+        "jungle": 11,
+        "jungleWR": "55",
+        "fill": 0,
+        "champs": [
+            {
+                "name": "Malzahar",
+                "count": 5,
+                "wins": 2,
+                "loses": 3
+            },
+            {
+                "name": "Teemo",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Nasus",
+                "count": 3,
+                "wins": 2,
+                "loses": 1
+            },
+            {
+                "name": "Tristana",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Vayne",
+                "count": 2,
+                "wins": 1,
+                "loses": 1
+            },
+            {
+                "name": "Tryndamere",
+                "count": 2,
+                "wins": 2,
+                "loses": 0
+            },
+            {
+                "name": "Mordekaiser",
+                "count": 2,
+                "wins": 2,
+                "loses": 0
+            },
+            {
+                "name": "Sion",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Lee Sin",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Hecarim",
+                "count": 2,
+                "wins": 1,
+                "loses": 1
+            },
+            {
+                "name": "Shaco",
+                "count": 1,
+                "wins": 0,
+                "loses": 1
+            },
+            {
+                "name": "Master Yi",
+                "count": 2,
+                "wins": 1,
+                "loses": 1
+            },
+            {
+                "name": "Olaf",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Singed",
+                "count": 1,
+                "wins": 0,
+                "loses": 1
+            },
+            {
+                "name": "Malphite",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Vladimir",
+                "count": 2,
+                "wins": 1,
+                "loses": 1
+            },
+            {
+                "name": "Dr.Mundo",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Karthus",
+                "count": 2,
+                "wins": 1,
+                "loses": 1
+            },
+            {
+                "name": "Fizz",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Graves",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Jarvan",
+                "count": 1,
+                "wins": 1,
+                "loses": 0
+            },
+            {
+                "name": "Trundle",
+                "count": 1,
+                "wins": 0,
+                "loses": 1
+            }
+        ]
+    },
+    "ha": {
+        "fill": 0,
+        "champs": [
+            {
+                "name": "Lulu",
+                "count": 1,
+                "wins": 0,
+                "loses": 1
+            }
+        ]
+    }
+}
